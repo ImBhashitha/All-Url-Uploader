@@ -75,6 +75,8 @@ python3 bot.py
 </p>
 </details>
 
+<a href="https://heroku.com/deploy?template=https://github.com/ImBhashitha/All-Url-Uploader"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
+
 <h3>Questions</h3>
 
 <p>For questions and support please use <a href="https://github.com/kalanakt/All-Url-Uploader/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
